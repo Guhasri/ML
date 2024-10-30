@@ -1,0 +1,8 @@
+Looks_handsome,Looks_repulsive,Alcoholic_beverage_yes,Money_spent_lot,Eloquence_average,Money_spent_little,Eloquence_high,Will_go
+0,1,0,1,0,0,1,0
+0,1,0,0,0,1,0,1
+1,1,0,1,1,0,0,0
+1,0,1,0,1,1,0,1
+0,0,1,1,0,0,0,0
+0,0,1,1,0,0,1,1
+0,1,0,1,1,0,0,1
